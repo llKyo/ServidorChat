@@ -1,0 +1,7 @@
+C;Hola
+S;Hola cliente
+C;aaah
+S;que?
+C;chao noh vimo
+S;chao
+

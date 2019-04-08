@@ -1,0 +1,6 @@
+z:\Ejercicio1\ServerChatBidirecional\ClienteChatBidirecional\bin\Debug\ClienteChatBidirecional.exe.config
+z:\Ejercicio1\ServerChatBidirecional\ClienteChatBidirecional\bin\Debug\ClienteChatBidirecional.exe
+z:\Ejercicio1\ServerChatBidirecional\ClienteChatBidirecional\bin\Debug\ClienteChatBidirecional.pdb
+z:\Ejercicio1\ServerChatBidirecional\ClienteChatBidirecional\obj\Debug\ClienteChatBidirecional.exe
+z:\Ejercicio1\ServerChatBidirecional\ClienteChatBidirecional\obj\Debug\ClienteChatBidirecional.pdb
+z:\Ejercicio1\ServerChatBidirecional\ClienteChatBidirecional\obj\Debug\ClienteChatBidirecional.csprojResolveAssemblyReference.cache
